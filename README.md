@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here you'll be able to find a collection of my pro
 ## 📌 Featured Projects
 Here are some examples of my work:
 * **Census Data Analysis of USA:** Exploratory Data Analysis (EDA) on US Census Data. Investigating income distribution using Python, Pandas, and statistical tests.
-* **Till New Year:** A minimalist countdown to the new year. Designed with simplicity — for inspiration, and a little push to just do it.
+* **Till New Year:** A minimalist countdown to the new year. Designed with simplicity - for inspiration, and a little push to just do it.
 * **QRMonitor:** A QR code generator with analysis capability, which tracks the number of scans in real time divided by month and year.
 
 ## 🎓 Diploma Thesis | “Stay Well”
