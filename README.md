@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! Here you'll be able to find a collection of my projects in the field of Full Stack Development, covering both Front-End, Back-End as well as UI/UX design.
 
 ## 🛠️ Technologies & Tools
-* **Languages:** Javascript | Python | Dart
-* **Frameworks & Libraries:** React | Flutter | Node.js | Django
+* **Languages:** Javascript | Python | Typescript | Dart
+* **Frameworks & Libraries:** React | Flutter | Node.js | Next.js | Django
 * **Databases:** MySQL | PostgreSQL
 
 ## 📌 Featured Projects
