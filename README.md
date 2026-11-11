@@ -27,4 +27,4 @@ Design and Development of a Spatiotemporal Recording System for Infectious Disea
 * **Mobile Application:** iOS and Android application providing location-based health notifications.
 * **System Architecture:** Design of a scalable architecture supporting data integration across multiple healthcare institutions.
 
-Thanks for stopping by! Wishing you an awesome day!☀️
+Thanks for stopping by! Wishing you an awesome day! ☀️
