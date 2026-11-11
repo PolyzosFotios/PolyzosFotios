@@ -1,5 +1,5 @@
 # Hey, I’m Fotios! 👋 
-**Data Scientist @ European Court of Auditors (ECA) 🇪🇺 | Luxembourg 🇱🇺 **
+**Data Scientist @ European Court of Auditors (ECA) 🇪🇺 | Luxembourg 🇱🇺**
 
 Welcome to my GitHub profile! Here you'll be able to find a collection of my projects in the fields of Data Science and Software Engineering, covering data analysis, data visualization, Front-End, Back-End development, as well as UI/UX design.
 
