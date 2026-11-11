@@ -17,7 +17,7 @@ Here are some examples of my work:
 * **Till New Year:** A minimalist countdown to the new year. Designed with simplicity - for inspiration, and a little push to just do it.
 
 
-## 🎓 Academic Background | “Stay Well”
+## 🎓 Academic Background
 **Integrated MSc in Computer Science & Engineering**
 **Diploma Thesis – "Stay Well"**
 Design and Development of a Spatiotemporal Recording System for Infectious Disease Cases. The system consists of:
